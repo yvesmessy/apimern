@@ -1,0 +1,25 @@
+{
+  "dependecies": {
+    "express": "4.16.3"
+  },
+  "name": "api-mern",
+  "version": "1.0.0",
+  "description": "sample express js api development framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesmessy/api-mern.git"
+  },
+  "author": "Yves Messy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvesmessy/api-mern/issues"
+  },
+  "homepage": "https://github.com/yvesmessy/api-mern#readme",
+  "dependencies": {
+    "vhost": "^3.0.2"
+  }
+}
